@@ -1,0 +1,512 @@
+[
+  {
+    "id": "146f85eb-ee67-44b6-adf0-f3be8af58bff",
+    "title": "Networks",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "9fa20be2-e1a2-4de5-8756-0329078d520d",
+        "title": "Netflix",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/a385753d-4b43-4ff1-8044-bb6fc4549072.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88328",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86751",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "2a1f01d1-52af-429e-9e75-ddfb504baee7",
+        "title": "HBO Max",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/de35fe31-b103-4079-8d62-3a1bd07336cc.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89647",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89649",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "bdf52418-81e4-40b2-803b-42eb948b2484",
+        "title": "Prime Video",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/a544d1db-3cf2-46a0-ad55-41a208ed16d4.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86755",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86753",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "72e322c8-7dd2-49f1-a8d5-3da885409a27",
+        "title": "Apple TV",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/59beabf4-b5ed-42a3-8c77-4d146dd84a8a.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88317",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88319",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "63a78a40-d30b-4b9e-8b7d-70e8b27fe59e",
+        "title": "Disney +",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ce7f8d04-5399-4456-8a0d-7deb9fcec096.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86759",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86758",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "5aa57142-2b9f-41b0-9e2b-f5c3949c500d",
+        "title": "Hulu",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/6719604a-a239-433d-be57-7b9ef10bbf9b.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88326",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88327",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c84f1ae7-e87c-4aa3-9574-14250dc1408c",
+        "title": "Paramount +",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/bb066c2b-0c04-47c7-a0e3-b85af69d1449.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86762",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86761",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "44374991-aacf-44a9-a91a-983e27abfb40",
+    "title": "Discover",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "62159fb6-57fe-4f36-af15-3e5b3106101d",
+        "title": "Latest Movies",
+        "coverImageUrl": "https://i.postimg.cc/rF0fsxFQ/latest-movies-thumbnail-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86934",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "2da52ae5-cdef-47ff-929f-18c261b2b60c",
+        "title": "Latest Shows",
+        "coverImageUrl": "https://i.postimg.cc/tCZBJWCv/latest-shows-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86710",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "cf471937-d2f6-400e-be05-5c316aae43f9",
+        "title": "Trending Movies",
+        "coverImageUrl": "https://i.postimg.cc/gkXgj8kM/trending-movies-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.87667",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "62e46b26-8ea6-4281-9830-ad3f19e89801",
+        "title": "Trending Shows",
+        "coverImageUrl": "https://i.postimg.cc/28b0yh80/trending-shows-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88434",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "0afc70e9-8581-42ca-aab6-16cd7bfbcf2e",
+    "title": "Genres",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "ed5e7fb9-bd92-4e70-9b6e-63741655a266",
+        "title": "Action",
+        "coverImageUrl": "https://i.postimg.cc/NjHn2wSq/Action.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91211",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "7d6274d3-010c-433e-9007-997d2cf5c6df",
+        "title": "Comedy",
+        "coverImageUrl": "https://i.postimg.cc/t4xcnHf8/Comedy.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91223",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91224",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "4d5e3e53-ca5e-462c-ae8d-65e19b3dc7a4",
+        "title": "Crime",
+        "coverImageUrl": "https://i.postimg.cc/NFnNLNxF/Crime.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3108",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3126",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "01de6c31-c9bc-4f4d-9391-71b15b563227",
+        "title": "Drama",
+        "coverImageUrl": "https://i.postimg.cc/0233NNW9/Drama.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91297",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "ef8d0989-6e0a-47cd-8c1f-27f066e7a675",
+        "title": "Horror",
+        "coverImageUrl": "https://i.postimg.cc/P5w7vk9d/Horror.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91215",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91217",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.102554",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "3296dd13-f81f-437b-a0be-9d0e98863c9b",
+        "title": "Sci-Fi",
+        "coverImageUrl": "https://i.postimg.cc/zGgQH161/Fantasy.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91220",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91221",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "b43c3824-d818-43ae-8055-e9a95a1a300a",
+        "title": "Thriller",
+        "coverImageUrl": "https://i.postimg.cc/9Q7kwjK3/Thriller.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "f89c5122-0362-4343-ad66-b5583c4899f8",
+    "title": "Decades",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "8b35ca9d-92b1-42b1-8402-4cce2deeab9e",
+        "title": "80's",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1336145e-f460-4d9b-903e-0a0284d4750b.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91301",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "a1bb4b40-0904-481c-a9ed-5439e286a8df",
+        "title": "90's",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/faf651e8-e6ba-4f84-9bff-49225d5024d6.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91300",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "b4a45f3c-6ce9-4f60-8228-f549f29121ee",
+        "title": "00's",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1b303257-4dcb-4cdc-9a15-36df68a3cc7f.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91302",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "97c59ed7-4d9c-4f64-be40-6f9a235a49bd",
+        "title": "10's",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/fcf6cb04-14c7-42fb-99cf-184b0d07116c.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91303",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c7b9834b-7cd3-46db-aaef-f79c4eecf49c",
+        "title": "20's",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0c71ef5b-1323-4bd2-a099-2adea831929e.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91304",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  }
+]
