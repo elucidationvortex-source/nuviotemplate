@@ -6,7 +6,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_HOME",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "72011d0f-e3a3-4afc-9375-46aed5080c58",
@@ -85,7 +85,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_HOME",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "3b417ba7-118e-4b34-a98e-627dbce08975",
@@ -250,7 +250,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_HOME",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "fb1b44f7-441a-4c72-874d-b32b31eab572",
@@ -420,7 +420,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_HOME",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "460733b4-88fd-412e-816a-2284327afc71",
@@ -533,7 +533,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_HOME",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "efc13898-6c6f-437a-b186-86e7679fc2a7",
