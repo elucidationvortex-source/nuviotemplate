@@ -9,43 +9,9 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "72011d0f-e3a3-4afc-9375-46aed5080c58",
-        "title": "Trending Movies",
-        "coverImageUrl": "https://i.postimg.cc/gkXgj8kM/trending-movies-2.jpg",
-        "focusGifUrl": null,
-        "coverEmoji": null,
-        "tileShape": "LANDSCAPE",
-        "hideTitle": true,
-        "catalogSources": [
-          {
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.87667",
-            "type": "movie"
-          }
-        ],
-        "_coverMode": "image"
-      },
-      {
-        "id": "92389bb1-bf72-44c6-80d2-1e078521419e",
-        "title": "Trending Shows",
-        "coverImageUrl": "https://i.postimg.cc/28b0yh80/trending-shows-2.jpg",
-        "focusGifUrl": null,
-        "coverEmoji": null,
-        "tileShape": "LANDSCAPE",
-        "hideTitle": true,
-        "catalogSources": [
-          {
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.88434",
-            "type": "series"
-          }
-        ],
-        "_coverMode": "image"
-      },
-      {
-        "id": "e0c8a2c0-9a5d-4591-ba44-2ecb9ac00e98",
-        "title": "Latest Movies",
-        "coverImageUrl": "https://i.postimg.cc/rF0fsxFQ/latest-movies-thumbnail-2.jpg",
+        "id": "6bb2f5f4-5935-49f9-b8e8-1b5b80799816",
+        "title": "Latest",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/8a94d886-faf6-4668-b84f-037603e87708.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -55,14 +21,19 @@
             "addonId": "aio-metadata",
             "catalogId": "mdblist.86934",
             "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86710",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
       },
       {
-        "id": "8d02a7c5-f1e3-414c-86cb-c5040cf799d9",
-        "title": "Latest Shows",
-        "coverImageUrl": "https://i.postimg.cc/tCZBJWCv/latest-shows-2.jpg",
+        "id": "960e48e7-39dc-453e-949e-48fc7d2e480c",
+        "title": "Trending",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b8f8f829-5429-4561-a0c5-6cda9af3c8b4.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -70,7 +41,12 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86710",
+            "catalogId": "mdblist.87667",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88434",
             "type": "series"
           }
         ],
@@ -98,13 +74,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88328",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.88328"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86751",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.86751"
           }
         ],
         "_coverMode": "image"
@@ -120,13 +96,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86759",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.86759"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86758",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.86758"
           }
         ],
         "_coverMode": "image"
@@ -142,13 +118,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88317",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.88317"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88319",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.88319"
           }
         ],
         "_coverMode": "image"
@@ -164,13 +140,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86755",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.86755"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86753",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.86753"
           }
         ],
         "_coverMode": "image"
@@ -186,13 +162,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.89647",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.89647"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.89649",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.89649"
           }
         ],
         "_coverMode": "image"
@@ -208,13 +184,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88326",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.88326"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88327",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.88327"
           }
         ],
         "_coverMode": "image"
@@ -230,13 +206,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86762",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.86762"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86761",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.86761"
           }
         ],
         "_coverMode": "image"
@@ -263,13 +239,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91211",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91211"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91213",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.91213"
           }
         ],
         "_coverMode": "image"
@@ -285,13 +261,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91223",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91223"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91224",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.91224"
           }
         ],
         "_coverMode": "image"
@@ -307,13 +283,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91220",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91220"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91221",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.91221"
           }
         ],
         "_coverMode": "image"
@@ -329,13 +305,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.3108",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.3108"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.3126",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.3126"
           }
         ],
         "_coverMode": "image"
@@ -351,13 +327,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91893",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91893"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91894",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.91894"
           }
         ],
         "_coverMode": "image"
@@ -373,13 +349,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91296",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91296"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91297",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.91297"
           }
         ],
         "_coverMode": "image"
@@ -395,18 +371,84 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91215",
+            "type": "movie",
+            "catalogId": "mdblist.91215"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.91217"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.102554"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "eacfc1c3-282c-4c49-8e07-03c5e7c16558",
+        "title": "Mystery",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/c4b65f27-efab-4afd-bc19-21f642900c2b.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.40490",
             "type": "movie"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91217",
+            "catalogId": "mdblist.40804",
             "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "9e0b6b44-e14e-4192-aded-79737a5b4d4a",
+        "title": "Mindfuck",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7ada33ad-7c02-4aae-98a6-7e357cd53553.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.114516",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "190240d4-244b-41bd-a6f1-fb7599702b9b",
+        "title": "Anime",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/9802ff60-de5e-4875-9f6f-15ddb39e241b.png",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "POSTER",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "anilist.trending",
+            "type": "anime"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.102554",
-            "type": "movie"
+            "catalogId": "mal.discover.anime.top_anime.mnxr57of",
+            "type": "anime"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mal.discover.anime.top_anime_movies.mnxr68mk",
+            "type": "anime"
           }
         ],
         "_coverMode": "image"
@@ -433,8 +475,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91304",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91304"
           }
         ],
         "_coverMode": "image"
@@ -450,8 +492,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91303",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91303"
           }
         ],
         "_coverMode": "image"
@@ -467,8 +509,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91302",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91302"
           }
         ],
         "_coverMode": "image"
@@ -484,8 +526,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91300",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91300"
           }
         ],
         "_coverMode": "image"
@@ -501,8 +543,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.91301",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.91301"
           }
         ],
         "_coverMode": "image"
@@ -518,8 +560,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.127962",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.127962"
           }
         ],
         "_coverMode": "image"
@@ -546,8 +588,8 @@
         "catalogSources": [
           {
             "addonId": "com.joaogonp.marveladdon.custom.marvel-mcu",
-            "catalogId": "marvel-mcu",
-            "type": "Marvel"
+            "type": "Marvel",
+            "catalogId": "marvel-mcu"
           }
         ],
         "_coverMode": "image"
@@ -563,8 +605,8 @@
         "catalogSources": [
           {
             "addonId": "com.tapframe.dcaddon.custom.dc-chronological",
-            "catalogId": "dc-chronological",
-            "type": "DC"
+            "type": "DC",
+            "catalogId": "dc-chronological"
           }
         ],
         "_coverMode": "image"
@@ -580,8 +622,8 @@
         "catalogSources": [
           {
             "addonId": "com.starwars.addon.custom.sw-movies-series-chronological",
-            "catalogId": "sw-movies-series-chronological",
-            "type": "StarWars"
+            "type": "StarWars",
+            "catalogId": "sw-movies-series-chronological"
           }
         ],
         "_coverMode": "image"
@@ -597,8 +639,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.7947",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.7947"
           }
         ],
         "_coverMode": "image"
@@ -614,8 +656,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.102972",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.102972"
           }
         ],
         "_coverMode": "image"
