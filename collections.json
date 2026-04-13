@@ -73,14 +73,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.88328"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.86751"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -95,14 +95,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.86759"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.86758"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -117,14 +117,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.88317"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.88319"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -139,14 +139,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.86755"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.86753"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -161,14 +161,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.89647"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.89649"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -183,14 +183,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.88326"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.88327"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
@@ -205,14 +205,14 @@
         "hideTitle": true,
         "catalogSources": [
           {
-            "addonId": "aio-metadata",
-            "type": "movie",
-            "catalogId": "mdblist.86762"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pmp",
+            "type": "movie"
           },
           {
-            "addonId": "aio-metadata",
-            "type": "series",
-            "catalogId": "mdblist.86761"
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pmp",
+            "type": "series"
           }
         ],
         "_coverMode": "image"
