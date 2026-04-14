@@ -1,6 +1,6 @@
 {
   "version": "1.35.2",
-  "exportedAt": "2026-04-14T07:21:39.924Z",
+  "exportedAt": "2026-04-14T07:37:35.303Z",
   "config": {
     "language": "en-US",
     "addonName": "",
@@ -712,6 +712,44 @@
             }
           }
         }
+      },
+      {
+        "id": "mdblist.7947",
+        "type": "movie",
+        "name": "James Bond Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 27,
+          "author": "hdlists",
+          "url": "https://mdblist.com/lists/hdlists/james-bond-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.102972",
+        "type": "movie",
+        "name": "Harry Potter Collection",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 11,
+          "author": "thebirdod",
+          "url": "https://mdblist.com/lists/thebirdod/harry-potter-collection",
+          "mediatype": "movie"
+        }
       }
     ],
     "search": {
@@ -762,7 +800,7 @@
   },
   "metadata": {
     "apiKeysExcluded": true,
-    "totalCatalogs": 31,
-    "enabledCatalogs": 31
+    "totalCatalogs": 33,
+    "enabledCatalogs": 33
   }
 }
