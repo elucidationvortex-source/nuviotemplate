@@ -1,0 +1,768 @@
+{
+  "version": "1.35.2",
+  "exportedAt": "2026-04-14T07:21:39.924Z",
+  "config": {
+    "language": "en-US",
+    "addonName": "",
+    "includeAdult": false,
+    "blurThumbs": false,
+    "showPrefix": false,
+    "showMetaProviderAttribution": false,
+    "castCount": 10,
+    "displayAgeRating": false,
+    "showDisabledCatalogs": false,
+    "sfw": false,
+    "hideUnreleasedDigital": false,
+    "hideUnreleasedDigitalSearch": false,
+    "hideWatchedTrakt": false,
+    "hideWatchedAnilist": false,
+    "hideWatchedMdblist": false,
+    "providers": {
+      "movie": "tmdb",
+      "series": "tvdb",
+      "anime": "tvdb",
+      "anime_id_provider": "kitsu",
+      "forceAnimeForDetectedImdb": true
+    },
+    "artProviders": {
+      "movie": {
+        "poster": "meta",
+        "background": "meta",
+        "logo": "meta"
+      },
+      "series": {
+        "poster": "meta",
+        "background": "meta",
+        "logo": "meta"
+      },
+      "anime": {
+        "poster": "meta",
+        "background": "imdb",
+        "logo": "imdb"
+      },
+      "englishArtOnly": false
+    },
+    "tvdbSeasonType": "default",
+    "mal": {
+      "skipFiller": false,
+      "skipRecap": false,
+      "allowEpisodeMarking": true,
+      "useImdbIdForCatalogAndSearch": true
+    },
+    "tmdb": {
+      "scrapeImdb": false,
+      "forceLatinCastNames": false
+    },
+    "apiKeys": {
+      "gemini": "",
+      "tmdb": "",
+      "tvdb": "",
+      "fanart": "",
+      "rpdb": "",
+      "topPoster": "",
+      "mdblist": "",
+      "traktTokenId": "",
+      "simklTokenId": "",
+      "anilistTokenId": "",
+      "customDescriptionBlurb": ""
+    },
+    "posterRatingProvider": "rpdb",
+    "usePosterProxy": true,
+    "mdblistWatchTracking": true,
+    "anilistWatchTracking": false,
+    "simklWatchTracking": false,
+    "traktWatchTracking": false,
+    "enableRatingPostersForLibrary": true,
+    "showRateMeButton": false,
+    "ageRating": "None",
+    "searchEnabled": true,
+    "sessionId": "",
+    "catalogSetupComplete": true,
+    "timezone": "America/Mexico_City",
+    "catalogs": [
+      {
+        "id": "mdblist.87667",
+        "type": "movie",
+        "name": "Trending Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/trending-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.88434",
+        "type": "series",
+        "name": "Trending Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 250,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/trakt-s-trending-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.86934",
+        "type": "movie",
+        "name": "Latest Digital Release",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 498,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/latest-movies-digital-release",
+          "mediatype": "movie"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.86710",
+        "type": "series",
+        "name": "Latest Airing",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/latest-tv-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.91304",
+        "type": "movie",
+        "name": "Popular 2020s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 179,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/top-2020s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91303",
+        "type": "movie",
+        "name": "Popular 2010s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 372,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/top-2010s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91302",
+        "type": "movie",
+        "name": "Popular 2000s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 448,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/top-2000s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91300",
+        "type": "movie",
+        "name": "Popular 1990s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 314,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/top-1990s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91301",
+        "type": "movie",
+        "name": "Popular 1980s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 220,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/top-1980s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.127962",
+        "type": "movie",
+        "name": "Popular 1970s Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 159,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/popular-1970s-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91220",
+        "type": "movie",
+        "name": "Popular Sci-Fi Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/science-fiction-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91221",
+        "type": "series",
+        "name": "Popular Sci-Fi Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/science-fiction-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.91211",
+        "type": "movie",
+        "name": "Popular Action Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/action-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91213",
+        "type": "series",
+        "name": "Popular Action Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/action-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.3108",
+        "type": "movie",
+        "name": "Popular Crime Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 400,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/crime",
+          "mediatype": "movie"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.3126",
+        "type": "series",
+        "name": "Popular Crime Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "garycrawfordgc",
+          "url": "https://mdblist.com/lists/garycrawfordgc/crime-shows",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.91223",
+        "type": "movie",
+        "name": "Popular Comedy Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/comedy-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91224",
+        "type": "series",
+        "name": "Popular Comedy Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/comedy-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.91296",
+        "type": "movie",
+        "name": "Popular Drama Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/drama-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91297",
+        "type": "series",
+        "name": "Popular Drama Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/drama-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.91215",
+        "type": "movie",
+        "name": "Popular Horror Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/horror-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91217",
+        "type": "series",
+        "name": "Popular Horror Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 451,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/horror-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.91893",
+        "type": "movie",
+        "name": "Popular Thriller Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/thriller-movies",
+          "mediatype": "movie"
+        }
+      },
+      {
+        "id": "mdblist.91894",
+        "type": "series",
+        "name": "Popular Thriller Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 500,
+          "author": "snoak",
+          "url": "https://mdblist.com/lists/snoak/thriller-shows",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "mdblist.40490",
+        "type": "movie",
+        "name": "Popular Mystery Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 200,
+          "author": "quickflix",
+          "url": "https://mdblist.com/lists/quickflix/movies-popular-mystery",
+          "mediatype": "movie"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.40804",
+        "type": "series",
+        "name": "Popular Mystery Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 100,
+          "author": "quickflix",
+          "url": "https://mdblist.com/lists/quickflix/tv-shows-popular-mystery",
+          "mediatype": "show"
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "mdblist.114516",
+        "type": "movie",
+        "name": "Mindfuck",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 256,
+          "author": "ultraaa",
+          "url": "https://mdblist.com/lists/ultraaa/mindfuck-collection",
+          "mediatype": "movie"
+        },
+        "displayType": "movie"
+      },
+      {
+        "id": "mdblist.59779",
+        "type": "series",
+        "name": "Adult Swim",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mdblist",
+        "sort": "default",
+        "order": "asc",
+        "cacheTTL": 86400,
+        "genreSelection": "standard",
+        "enableRatingPosters": true,
+        "metadata": {
+          "itemCount": 156,
+          "author": "ppboy",
+          "url": "https://mdblist.com/lists/ppboy/adult-swim",
+          "mediatype": "show"
+        }
+      },
+      {
+        "id": "anilist.trending",
+        "name": "Trending Anime",
+        "type": "anime",
+        "enabled": true,
+        "showInHome": true,
+        "source": "anilist",
+        "displayType": "anime"
+      },
+      {
+        "id": "mal.discover.anime.top_anime.mnxr57of",
+        "type": "anime",
+        "name": "Top Anime",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mal",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "MAL Discover (anime)",
+          "url": "https://myanimelist.net/anime.php",
+          "discover": {
+            "version": 2,
+            "source": "mal",
+            "mediaType": "anime",
+            "params": {
+              "order_by": "score",
+              "sort": "desc",
+              "type": "tv"
+            },
+            "formState": {
+              "catalogName": "Top Anime",
+              "discoverSource": "mal",
+              "sortBy": "score",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "malType": "tv",
+              "malStatus": "",
+              "malRating": "",
+              "malSortDirection": "desc",
+              "malIncludeGenreIds": [],
+              "malExcludeGenreIds": [],
+              "malProducers": [],
+              "malMinScore": 0,
+              "malMaxScore": 10,
+              "malStartDate": "",
+              "malEndDate": "",
+              "malSfw": false
+            }
+          }
+        },
+        "displayType": "anime"
+      },
+      {
+        "id": "mal.discover.anime.top_anime_movies.mnxr68mk",
+        "type": "anime",
+        "name": "Top Anime Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "mal",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "MAL Discover (anime)",
+          "url": "https://myanimelist.net/anime.php",
+          "discover": {
+            "version": 2,
+            "source": "mal",
+            "mediaType": "anime",
+            "params": {
+              "order_by": "score",
+              "sort": "desc",
+              "type": "movie"
+            },
+            "formState": {
+              "catalogName": "Top Anime Movies",
+              "discoverSource": "mal",
+              "sortBy": "score",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "malType": "movie",
+              "malStatus": "",
+              "malRating": "",
+              "malSortDirection": "desc",
+              "malIncludeGenreIds": [],
+              "malExcludeGenreIds": [],
+              "malProducers": [],
+              "malMinScore": 0,
+              "malMaxScore": 10,
+              "malStartDate": "",
+              "malEndDate": "",
+              "malSfw": false
+            }
+          }
+        }
+      }
+    ],
+    "search": {
+      "enabled": true,
+      "ai_enabled": true,
+      "ai_provider": "gemini",
+      "ai_model": "gemini-2.5-flash-lite",
+      "providers": {
+        "movie": "tmdb.search",
+        "series": "tvdb.search",
+        "anime_movie": "mal.search.movie",
+        "anime_series": "mal.search.series",
+        "people_search_movie": "tmdb.people.search",
+        "people_search_series": "tmdb.people.search"
+      },
+      "engineEnabled": {
+        "tmdb.search": true,
+        "tvdb.search": true,
+        "tvdb.collections.search": false,
+        "tvmaze.search": true,
+        "trakt.search": true,
+        "mdblist.search": true,
+        "people_search_movie": false,
+        "people_search_series": false,
+        "mal.search.movie": false,
+        "mal.search.series": false,
+        "gemini.search": true
+      },
+      "searchNames": {},
+      "searchOrder": [
+        "movie",
+        "series",
+        "tvdb.collections.search",
+        "gemini.search",
+        "anime_series",
+        "anime_movie",
+        "people_search_movie",
+        "people_search_series"
+      ]
+    },
+    "streaming": [],
+    "customPosterUrlPattern": "",
+    "customBackgroundUrlPattern": "",
+    "customLogoUrlPattern": "",
+    "lastModified": 1776142062691,
+    "configVersion": 1776142062692,
+    "configHash": "0af31b0ff1a5dbd7"
+  },
+  "metadata": {
+    "apiKeysExcluded": true,
+    "totalCatalogs": 31,
+    "enabledCatalogs": 31
+  }
+}
