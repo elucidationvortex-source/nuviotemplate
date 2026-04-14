@@ -1,6 +1,6 @@
 {
   "version": "1.35.2",
-  "exportedAt": "2026-04-14T07:37:35.303Z",
+  "exportedAt": "2026-04-14T19:26:24.510Z",
   "config": {
     "language": "en-US",
     "addonName": "",
@@ -754,7 +754,7 @@
     ],
     "search": {
       "enabled": true,
-      "ai_enabled": true,
+      "ai_enabled": false,
       "ai_provider": "gemini",
       "ai_model": "gemini-2.5-flash-lite",
       "providers": {
@@ -776,7 +776,7 @@
         "people_search_series": false,
         "mal.search.movie": false,
         "mal.search.series": false,
-        "gemini.search": true
+        "gemini.search": false
       },
       "searchNames": {},
       "searchOrder": [
@@ -794,9 +794,9 @@
     "customPosterUrlPattern": "",
     "customBackgroundUrlPattern": "",
     "customLogoUrlPattern": "",
-    "lastModified": 1776142062691,
-    "configVersion": 1776142062692,
-    "configHash": "0af31b0ff1a5dbd7"
+    "lastModified": 1776152250878,
+    "configVersion": 1776152250879,
+    "configHash": "dad57ed2049cec7a"
   },
   "metadata": {
     "apiKeysExcluded": true,
