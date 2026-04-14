@@ -10,8 +10,8 @@
     "folders": [
       {
         "id": "6bb2f5f4-5935-49f9-b8e8-1b5b80799816",
-        "title": "Latest",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/8a94d886-faf6-4668-b84f-037603e87708.png",
+        "title": "Latest Movies",
+        "coverImageUrl": "https://i.postimg.cc/rF0fsxFQ/latest-movies-thumbnail-2.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -21,7 +21,19 @@
             "addonId": "aio-metadata",
             "catalogId": "mdblist.86934",
             "type": "movie"
-          },
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "960e48e7-39dc-453e-949e-48fc7d2e480c",
+        "title": "Latest Shows",
+        "coverImageUrl": "https://i.postimg.cc/tCZBJWCv/latest-shows-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
           {
             "addonId": "aio-metadata",
             "catalogId": "mdblist.86710",
@@ -31,9 +43,9 @@
         "_coverMode": "image"
       },
       {
-        "id": "960e48e7-39dc-453e-949e-48fc7d2e480c",
-        "title": "Trending",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b8f8f829-5429-4561-a0c5-6cda9af3c8b4.png",
+        "id": "a0bde699-39ca-43a0-8bc9-d0d02348393b",
+        "title": "Trending Movies",
+        "coverImageUrl": "https://i.postimg.cc/gkXgj8kM/trending-movies-2.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -43,7 +55,19 @@
             "addonId": "aio-metadata",
             "catalogId": "mdblist.87667",
             "type": "movie"
-          },
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "23166298-ffde-4b91-86b7-a94039f423d7",
+        "title": "Trending Shows",
+        "coverImageUrl": "https://i.postimg.cc/28b0yh80/trending-shows-2.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
           {
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88434",
@@ -66,7 +90,7 @@
       {
         "id": "3b417ba7-118e-4b34-a98e-627dbce08975",
         "title": "Netflix",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/a385753d-4b43-4ff1-8044-bb6fc4549072.png",
+        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -74,13 +98,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "nfx",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "nfx"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "nfx",
-            "type": "series"
+            "type": "series",
+            "catalogId": "nfx"
           }
         ],
         "_coverMode": "image"
@@ -88,7 +112,7 @@
       {
         "id": "fad8800d-bb1a-466e-a7f2-7607dde8c4b9",
         "title": "Disney+",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ce7f8d04-5399-4456-8a0d-7deb9fcec096.png",
+        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -96,13 +120,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "dnp",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "dnp"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "dnp",
-            "type": "series"
+            "type": "series",
+            "catalogId": "dnp"
           }
         ],
         "_coverMode": "image"
@@ -110,7 +134,7 @@
       {
         "id": "8f1e1103-d5ad-43e6-b787-9cdb69ac378f",
         "title": "Apple TV",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/59beabf4-b5ed-42a3-8c77-4d146dd84a8a.png",
+        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -118,13 +142,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "atp",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "atp"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "atp",
-            "type": "series"
+            "type": "series",
+            "catalogId": "atp"
           }
         ],
         "_coverMode": "image"
@@ -132,7 +156,7 @@
       {
         "id": "8d848386-9c7b-4b99-9ef0-bffb21437b81",
         "title": "Prime Video",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/a544d1db-3cf2-46a0-ad55-41a208ed16d4.png",
+        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -140,13 +164,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "amp",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "amp"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "amp",
-            "type": "series"
+            "type": "series",
+            "catalogId": "amp"
           }
         ],
         "_coverMode": "image"
@@ -154,7 +178,7 @@
       {
         "id": "97bcf552-69dd-4648-951e-cc55433bc5a4",
         "title": "HBO Max",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/de35fe31-b103-4079-8d62-3a1bd07336cc.png",
+        "coverImageUrl": "https://i.postimg.cc/MT2fZ1Rz/HBO-Max.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -162,13 +186,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "hbm",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "hbm"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "hbm",
-            "type": "series"
+            "type": "series",
+            "catalogId": "hbm"
           }
         ],
         "_coverMode": "image"
@@ -176,7 +200,7 @@
       {
         "id": "081a4f41-f36f-4c1f-bbf4-6786efb5cdf0",
         "title": "Hulu",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/6719604a-a239-433d-be57-7b9ef10bbf9b.png",
+        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -184,13 +208,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "hlu",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "hlu"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "hlu",
-            "type": "series"
+            "type": "series",
+            "catalogId": "hlu"
           }
         ],
         "_coverMode": "image"
@@ -198,7 +222,7 @@
       {
         "id": "95be0cb8-b8dd-401d-b982-f35b1fb5b08e",
         "title": "Paramount+",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/bb066c2b-0c04-47c7-a0e3-b85af69d1449.png",
+        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -206,13 +230,13 @@
         "catalogSources": [
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "pmp",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "pmp"
           },
           {
             "addonId": "pw.ers.netflix-catalog",
-            "catalogId": "pmp",
-            "type": "series"
+            "type": "series",
+            "catalogId": "pmp"
           }
         ],
         "_coverMode": "image"
@@ -231,7 +255,7 @@
       {
         "id": "fb1b44f7-441a-4c72-874d-b32b31eab572",
         "title": "Action",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7e762903-edd8-45fc-a7ea-56850b5c7824.png",
+        "coverImageUrl": "https://i.postimg.cc/Y0D7YGTC/actionport(1).png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -253,7 +277,7 @@
       {
         "id": "1c8f20af-b2fe-4afa-8511-88c0c605a686",
         "title": "Comedy",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/b9338342-7969-4288-9471-78284f09c019.png",
+        "coverImageUrl": "https://i.postimg.cc/7ht40GjP/comedyport(1).png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -275,7 +299,7 @@
       {
         "id": "60b0411b-7925-4b34-a453-3685dbb3d8c5",
         "title": "Sci-Fi",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7713b5ba-68cc-40aa-944b-dcf408df3ddb.png",
+        "coverImageUrl": "https://i.postimg.cc/T1NxgLBx/scifiport.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -297,7 +321,7 @@
       {
         "id": "a5e09c6d-41f8-48fb-b409-8920092bc0f4",
         "title": "Crime",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/09237370-9471-4786-a611-c60faa5adc78.png",
+        "coverImageUrl": "https://i.postimg.cc/W3fY7GpC/crimeport.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -319,7 +343,7 @@
       {
         "id": "f953a671-ace5-450d-9c70-6e91a735864f",
         "title": "Thriller",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1f90229b-13e5-4574-b796-745fd910505a.png",
+        "coverImageUrl": "https://i.postimg.cc/2y9Yhbgm/thrillerport.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -341,7 +365,7 @@
       {
         "id": "19975918-d59a-426d-852a-fa30c2236ec1",
         "title": "Drama",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/41b91429-b4c2-4fe5-9f65-69aff6605de5.png",
+        "coverImageUrl": "https://i.postimg.cc/KjpbBkCZ/dramaport.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -363,7 +387,7 @@
       {
         "id": "33467c13-23cc-4f78-92dd-3932598adc33",
         "title": "Horror",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/59af813b-53f8-4ce0-ae6b-3aad10a3838c.png",
+        "coverImageUrl": "https://i.postimg.cc/fyqsmt1M/horrorport.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -390,7 +414,7 @@
       {
         "id": "eacfc1c3-282c-4c49-8e07-03c5e7c16558",
         "title": "Mystery",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/c4b65f27-efab-4afd-bc19-21f642900c2b.png",
+        "coverImageUrl": "https://i.postimg.cc/KjpbBkCh/mystery.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -398,13 +422,13 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.40490",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.40490"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.40804",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.40804"
           }
         ],
         "_coverMode": "image"
@@ -412,7 +436,7 @@
       {
         "id": "9e0b6b44-e14e-4192-aded-79737a5b4d4a",
         "title": "Mindfuck",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/7ada33ad-7c02-4aae-98a6-7e357cd53553.png",
+        "coverImageUrl": "https://i.postimg.cc/KjpbBkCx/mind.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -420,8 +444,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.114516",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.114516"
           }
         ],
         "_coverMode": "image"
@@ -429,7 +453,7 @@
       {
         "id": "190240d4-244b-41bd-a6f1-fb7599702b9b",
         "title": "Anime",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/9802ff60-de5e-4875-9f6f-15ddb39e241b.png",
+        "coverImageUrl": "https://i.postimg.cc/Y0D7YGTH/anime.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -437,18 +461,18 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "anilist.trending",
-            "type": "anime"
+            "type": "anime",
+            "catalogId": "anilist.trending"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mal.discover.anime.top_anime.mnxr57of",
-            "type": "anime"
+            "type": "anime",
+            "catalogId": "mal.discover.anime.top_anime.mnxr57of"
           },
           {
             "addonId": "aio-metadata",
-            "catalogId": "mal.discover.anime.top_anime_movies.mnxr68mk",
-            "type": "anime"
+            "type": "anime",
+            "catalogId": "mal.discover.anime.top_anime_movies.mnxr68mk"
           }
         ],
         "_coverMode": "image"
@@ -648,7 +672,7 @@
       {
         "id": "2aefac91-f3ff-4632-98e1-b2a9fecebeee",
         "title": "Harry Potter",
-        "coverImageUrl": "https://4kwallpapers.com/images/wallpapers/harry-potter-and-3440x1440-18933.jpg",
+        "coverImageUrl": "https://www.peacocktv.com/dam/growth/assets/Collections/harry-potter/hp-franchise-social-2025.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
