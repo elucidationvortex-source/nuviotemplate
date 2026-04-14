@@ -1,3 +1,5 @@
+Collection: https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/collections.json
+
 Catalog Sources:
 
 AIOMetadata Template (download raw file and import into your AIOMetadata instance): https://github.com/elucidationvortex-source/nuviotemplate/blob/main/aiometadata.json
