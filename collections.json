@@ -19,8 +19,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86934",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.86934"
           }
         ],
         "_coverMode": "image"
@@ -36,8 +36,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.86710",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.86710"
           }
         ],
         "_coverMode": "image"
@@ -53,8 +53,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.87667",
-            "type": "movie"
+            "type": "movie",
+            "catalogId": "mdblist.87667"
           }
         ],
         "_coverMode": "image"
@@ -70,8 +70,8 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.88434",
-            "type": "series"
+            "type": "series",
+            "catalogId": "mdblist.88434"
           }
         ],
         "_coverMode": "image"
@@ -299,7 +299,7 @@
       {
         "id": "60b0411b-7925-4b34-a453-3685dbb3d8c5",
         "title": "Sci-Fi",
-        "coverImageUrl": "https://i.postimg.cc/T1NxgLBx/scifiport.png",
+        "coverImageUrl": "https://i.postimg.cc/GmTBjfKj/7713b5ba-68cc-40aa-944b-dcf408df3ddb.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -387,7 +387,7 @@
       {
         "id": "33467c13-23cc-4f78-92dd-3932598adc33",
         "title": "Horror",
-        "coverImageUrl": "https://i.postimg.cc/fyqsmt1M/horrorport.png",
+        "coverImageUrl": "https://i.postimg.cc/hP6vhrn6/59af813b-53f8-4ce0-ae6b-3aad10a3838c.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
