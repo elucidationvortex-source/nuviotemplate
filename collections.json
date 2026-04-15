@@ -11,7 +11,7 @@
       {
         "id": "6bb2f5f4-5935-49f9-b8e8-1b5b80799816",
         "title": "Latest Movies",
-        "coverImageUrl": "https://i.postimg.cc/rF0fsxFQ/latest-movies-thumbnail-2.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Latest-Movies.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -28,7 +28,7 @@
       {
         "id": "960e48e7-39dc-453e-949e-48fc7d2e480c",
         "title": "Latest Shows",
-        "coverImageUrl": "https://i.postimg.cc/tCZBJWCv/latest-shows-2.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Latest-Shows.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -45,7 +45,7 @@
       {
         "id": "a0bde699-39ca-43a0-8bc9-d0d02348393b",
         "title": "Trending Movies",
-        "coverImageUrl": "https://i.postimg.cc/gkXgj8kM/trending-movies-2.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Trending-Movies.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -62,7 +62,7 @@
       {
         "id": "23166298-ffde-4b91-86b7-a94039f423d7",
         "title": "Trending Shows",
-        "coverImageUrl": "https://i.postimg.cc/28b0yh80/trending-shows-2.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Trending-Shows.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -90,7 +90,7 @@
       {
         "id": "3b417ba7-118e-4b34-a98e-627dbce08975",
         "title": "Netflix",
-        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Netflix.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -112,7 +112,7 @@
       {
         "id": "fad8800d-bb1a-466e-a7f2-7607dde8c4b9",
         "title": "Disney+",
-        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Disney.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -134,7 +134,7 @@
       {
         "id": "8f1e1103-d5ad-43e6-b787-9cdb69ac378f",
         "title": "Apple TV",
-        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Apple-TV.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -156,7 +156,7 @@
       {
         "id": "8d848386-9c7b-4b99-9ef0-bffb21437b81",
         "title": "Prime Video",
-        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Prime-Video.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -178,7 +178,7 @@
       {
         "id": "97bcf552-69dd-4648-951e-cc55433bc5a4",
         "title": "HBO Max",
-        "coverImageUrl": "https://i.postimg.cc/MT2fZ1Rz/HBO-Max.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/HBO-Max.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -200,7 +200,7 @@
       {
         "id": "081a4f41-f36f-4c1f-bbf4-6786efb5cdf0",
         "title": "Hulu",
-        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Hulu.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -222,7 +222,7 @@
       {
         "id": "95be0cb8-b8dd-401d-b982-f35b1fb5b08e",
         "title": "Paramount+",
-        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Paramount.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -255,7 +255,7 @@
       {
         "id": "fb1b44f7-441a-4c72-874d-b32b31eab572",
         "title": "Action",
-        "coverImageUrl": "https://i.postimg.cc/Y0D7YGTC/actionport(1).png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/action.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -277,7 +277,7 @@
       {
         "id": "1c8f20af-b2fe-4afa-8511-88c0c605a686",
         "title": "Comedy",
-        "coverImageUrl": "https://i.postimg.cc/7ht40GjP/comedyport(1).png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/comedy.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -299,7 +299,7 @@
       {
         "id": "60b0411b-7925-4b34-a453-3685dbb3d8c5",
         "title": "Sci-Fi",
-        "coverImageUrl": "https://i.postimg.cc/GmTBjfKj/7713b5ba-68cc-40aa-944b-dcf408df3ddb.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/sci-fi.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -321,7 +321,7 @@
       {
         "id": "a5e09c6d-41f8-48fb-b409-8920092bc0f4",
         "title": "Crime",
-        "coverImageUrl": "https://i.postimg.cc/W3fY7GpC/crimeport.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/crime.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -343,7 +343,7 @@
       {
         "id": "f953a671-ace5-450d-9c70-6e91a735864f",
         "title": "Thriller",
-        "coverImageUrl": "https://i.postimg.cc/2y9Yhbgm/thrillerport.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/thriller.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -365,7 +365,7 @@
       {
         "id": "19975918-d59a-426d-852a-fa30c2236ec1",
         "title": "Drama",
-        "coverImageUrl": "https://i.postimg.cc/KjpbBkCZ/dramaport.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/drama.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -387,7 +387,7 @@
       {
         "id": "33467c13-23cc-4f78-92dd-3932598adc33",
         "title": "Horror",
-        "coverImageUrl": "https://i.postimg.cc/hP6vhrn6/59af813b-53f8-4ce0-ae6b-3aad10a3838c.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/horror.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -414,7 +414,7 @@
       {
         "id": "eacfc1c3-282c-4c49-8e07-03c5e7c16558",
         "title": "Mystery",
-        "coverImageUrl": "https://i.postimg.cc/KjpbBkCh/mystery.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/mystery.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -436,7 +436,7 @@
       {
         "id": "9e0b6b44-e14e-4192-aded-79737a5b4d4a",
         "title": "Mindfuck",
-        "coverImageUrl": "https://i.postimg.cc/KjpbBkCx/mind.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/mindfuck.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -453,7 +453,7 @@
       {
         "id": "190240d4-244b-41bd-a6f1-fb7599702b9b",
         "title": "Anime",
-        "coverImageUrl": "https://i.postimg.cc/Y0D7YGTH/anime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/anime.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "POSTER",
@@ -491,7 +491,7 @@
       {
         "id": "460733b4-88fd-412e-816a-2284327afc71",
         "title": "20's Movies",
-        "coverImageUrl": "https://i.postimg.cc/HxdW9sHt/20s-3D.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/20s.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -508,7 +508,7 @@
       {
         "id": "73fdc058-db97-438f-be2f-29f2f397a17a",
         "title": "10's Movies",
-        "coverImageUrl": "https://i.postimg.cc/j2K9mG9G/10s-3D.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/10s.png",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -525,7 +525,7 @@
       {
         "id": "b4ab8977-726b-4d5c-b0b3-599e5f49da9a",
         "title": "00's Movies",
-        "coverImageUrl": "https://i.postimg.cc/gJLTB3Dh/00s-3D.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/00s.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -542,7 +542,7 @@
       {
         "id": "737f1d8b-07b0-45c4-bfe2-361689d5e246",
         "title": "90's Movies",
-        "coverImageUrl": "https://i.postimg.cc/BnW14jjD/90s-3D.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/90s.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -559,7 +559,7 @@
       {
         "id": "29dd3993-05cd-4dc2-bdaa-afc5550a47f0",
         "title": "80's Movies",
-        "coverImageUrl": "https://i.postimg.cc/Hss3nfc5/80s-3D.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/80s.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -576,7 +576,7 @@
       {
         "id": "0371a3cc-f2be-4a9b-a05e-bb78f41188fb",
         "title": "70's Movies",
-        "coverImageUrl": "https://i.postimg.cc/hPB3GWCj/70s-3D.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/70s.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -604,7 +604,7 @@
       {
         "id": "efc13898-6c6f-437a-b186-86e7679fc2a7",
         "title": "Marvel",
-        "coverImageUrl": "https://i.postimg.cc/g0BNgjdf/Marvel.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Marvel.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -621,7 +621,7 @@
       {
         "id": "9633671e-b30e-4b3c-9d4a-868bdbd7dc43",
         "title": "DC Universe",
-        "coverImageUrl": "https://i.postimg.cc/zGMpg1RJ/DC-Universe.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/DC.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -638,7 +638,7 @@
       {
         "id": "b0543d15-2352-4844-8149-da49211e09c9",
         "title": "Star Wars",
-        "coverImageUrl": "https://i.postimg.cc/Wz08p7rv/Star-Wars.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Star-Wars.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -655,7 +655,7 @@
       {
         "id": "0884cd83-5abf-44d5-8088-33c7ee77c535",
         "title": "James Bond",
-        "coverImageUrl": "https://i.postimg.cc/L5LHFfB0/007.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/007.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
@@ -672,7 +672,7 @@
       {
         "id": "2aefac91-f3ff-4632-98e1-b2a9fecebeee",
         "title": "Harry Potter",
-        "coverImageUrl": "https://www.peacocktv.com/dam/growth/assets/Collections/harry-potter/hp-franchise-social-2025.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Harry-Potter.jpg",
         "focusGifUrl": null,
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
