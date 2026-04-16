@@ -14,7 +14,7 @@ https://aiometadata.elfhosted.com/
 
 Streaming Catalogs Add-on:
 
-https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxobHUscG1wOjpVUzoxNzc2MDc2NDM2MzQ5OjA6MDpDUg%3D%3D/manifest.json
+https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAscGNwLGhsdSxzdHo6OlVTOjE3NzYzMjQxMDg4OTM6MDowOkdU/manifest.json
 
 Marvel Catalog Add-on:
 
