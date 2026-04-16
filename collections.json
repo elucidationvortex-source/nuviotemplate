@@ -249,7 +249,18 @@
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
         "hideTitle": true,
-        "catalogSources": [],
+        "catalogSources": [
+          {
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp",
+            "type": "movie"
+          },
+          {
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp",
+            "type": "series"
+          }
+        ],
         "_coverMode": "image"
       },
       {
@@ -260,7 +271,18 @@
         "coverEmoji": null,
         "tileShape": "LANDSCAPE",
         "hideTitle": true,
-        "catalogSources": [],
+        "catalogSources": [
+          {
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "stz",
+            "type": "movie"
+          },
+          {
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "stz",
+            "type": "series"
+          }
+        ],
         "_coverMode": "image"
       },
       {
