@@ -1,27 +1,27 @@
 {
   "filters": [
     {
-      "borderColor": "#27C04F",
+      "borderColor": "#E53935",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "c0ad5e2e-ed9d-5abd-a13a-64cce37547a2",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/remux%20unranked.png",
       "isEnabled": true,
       "name": "REMUX",
       "pattern": "(?i)\\bremux|bdremux\\b",
-      "tagColor": "#27C04F",
+      "tagColor": "#E53935",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#0095D5",
+      "borderColor": "#E65100",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "acf8f544-3810-5b00-ac72-4835d3438e1a",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/bluray%20unranked.png",
       "isEnabled": true,
       "name": "BLU-RAY",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
-      "tagColor": "#0095D5",
+      "tagColor": "#E65100",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
