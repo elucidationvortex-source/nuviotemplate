@@ -30,7 +30,7 @@
       "borderColor": "#0073FF",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "4c04b5c6-2077-5c46-b7cd-6709391fcd37",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/web%20unranked.png",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/web%20unranked.png",
       "isEnabled": true,
       "name": "WEB",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|web|webdl|webrip|web-rip)\\b",
@@ -59,11 +59,11 @@
       "isEnabled": true,
       "name": "2160p",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#FF007F",
+      "tagColor": "#FF3399",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FF007F"
+      "borderColor": "#FF3399"
     },
     {
       "groupId": "550e8400-e29b-41d4-a716-446655440000",
@@ -72,11 +72,11 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#9437FF",
+      "tagColor": "#A95CFF",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#9437FF"
+      "borderColor": "#A95CFF"
     },
     {
       "groupId": "550e8400-e29b-41d4-a716-446655440000",
@@ -85,11 +85,11 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#0073FF",
+      "tagColor": "#268DFF",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#0073FF"
+      "borderColor": "#268DFF"
     },
     {
       "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
@@ -347,7 +347,7 @@
       "name": "Media Source"
     },
     {
-      "color": "#0073FF",
+      "color": "#268DFF",
       "id": "550e8400-e29b-41d4-a716-446655440000",
       "isExpanded": true,
       "name": "Resolution"
