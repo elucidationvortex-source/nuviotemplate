@@ -306,11 +306,11 @@
       "isEnabled": true,
       "name": "7.1 CH",
       "pattern": "[^0-9][7-8][. ][01](?![0-9])",
-      "tagColor": "#1A1B26",
+      "tagColor": "#FFFFFF",
       "tagStyle": "filled",
-      "textColor": "#FFFFFF",
+      "textColor": "#0E0E0E",
       "type": "filter",
-      "borderColor": "#FF007F"
+      "borderColor": "#FFFFFF"
     },
     {
       "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
@@ -319,11 +319,11 @@
       "isEnabled": true,
       "name": "6.1 CH",
       "pattern": "(?i)(?=.*[^0-9]6[ .][0-1]\\b)(?!.*[^0-9][7-8][ .][0-1]\\b)(?!.*[^0-9]5[ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]\\b|\\\\b(Stereo|Mono)\\\\b)",
-      "tagColor": "#1A1B26",
+      "tagColor": "#FFFFFF",
       "tagStyle": "filled",
-      "textColor": "#FFFFFF",
+      "textColor": "#0E0E0E",
       "type": "filter",
-      "borderColor": "#9437FF"
+      "borderColor": "#FFFFFF"
     },
     {
       "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
@@ -332,11 +332,11 @@
       "isEnabled": true,
       "name": "5.1 CH",
       "pattern": "^(?=.*[^0-9]5[. ][01](?![0-9]))(?!.*[^0-9][7-8][. ][01](?![0-9]))",
-      "tagColor": "#1A1B26",
+      "tagColor": "#FFFFFF",
       "tagStyle": "filled",
-      "textColor": "#FFFFFF",
+      "textColor": "#0E0E0E",
       "type": "filter",
-      "borderColor": "#0073FF"
+      "borderColor": "#FFFFFF"
     }
   ],
   "groups": [
