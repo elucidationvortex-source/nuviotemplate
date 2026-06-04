@@ -66,14 +66,14 @@
       "type": "filter"
     },
     {
-      "borderColor": "#9437FF",
+      "borderColor": "#6500ff",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "4c04b5c6-2077-5c46-b7cd-6709391fcd37",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/web%20unranked.png",
       "isEnabled": true,
       "name": "WEB",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|web|webdl|webrip|web-rip)\\b",
-      "tagColor": "#9437FF",
+      "tagColor": "#6500ff",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
