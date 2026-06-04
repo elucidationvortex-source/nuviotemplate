@@ -20,11 +20,11 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#A95CFF",
+      "tagColor": "#FF3399",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#A95CFF"
+      "borderColor": "#FF3399"
     },
     {
       "groupId": "550e8400-e29b-41d4-a716-446655440000",
@@ -33,36 +33,36 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#268DFF",
+      "tagColor": "#FF3399",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#268DFF"
+      "borderColor": "#FF3399"
     },
     {
-      "borderColor": "#3f3d81",
+      "borderColor": "#6500ff",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "c0ad5e2e-ed9d-5abd-a13a-64cce37547a2",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/remux%20unranked.png",
       "isEnabled": true,
       "name": "REMUX",
       "pattern": "(?i)\\bremux|bdremux\\b",
-      "tagColor": "#3f3d81",
+      "tagColor": "#6500ff",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#268dff",
+      "borderColor": "#6500ff",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id": "acf8f544-3810-5b00-ac72-4835d3438e1a",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/bluray%20unranked.png",
       "isEnabled": true,
       "name": "BLU-RAY",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
-      "tagColor": "#268dff",
+      "tagColor": "#6500ff",
       "tagStyle": "filled",
-      "textColor": "#0E0E0E",
+      "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
@@ -341,13 +341,13 @@
   ],
   "groups": [
     {
-      "color": "#268DFF",
+      "color": "#FF3399",
       "id": "550e8400-e29b-41d4-a716-446655440000",
       "isExpanded": true,
       "name": "Resolution"
     },
     {
-      "color": "#3f3d81",
+      "color": "#6500ff",
       "id": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "isExpanded": true,
       "name": "Media Source"
