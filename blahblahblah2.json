@@ -170,6 +170,32 @@
       "borderColor": "#00F0FF"
     },
     {
+      "borderColor": "#BD93F9",
+      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "id": "5f758265-9c4c-5aa5-bd5f-547553cd993d",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/SEADEX.png",
+      "isEnabled": true,
+      "name": "SEADEX Release",
+      "pattern": "(?i)(?:\\bseadex\\b|ᴀʟᴛ\\s+ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ\\s+ʀᴇʟᴇᴀsᴇ|alt\\s+release|best\\s+release)",
+      "tagColor": "#BD93F9",
+      "tagStyle": "filled",
+      "textColor": "#0E0E0E",
+      "type": "filter"
+    },
+    {
+      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
+      "imageURL": "https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/regex%20tags/IMAXv2.PNG?raw=true",
+      "isEnabled": true,
+      "name": "IMAX",
+      "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
+      "tagColor": "#BD93F9",
+      "tagStyle": "filled",
+      "textColor": "#0E0E0E",
+      "type": "filter",
+      "borderColor": "#BD93F9"
+    },  
+    {
       "groupId": "ga",
       "id": "a-at",
       "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/white-Atmos.png",
@@ -311,32 +337,6 @@
       "textColor": "#FFFFFF",
       "type": "filter",
       "borderColor": "#FFFFFF"
-    },
-    {
-      "borderColor": "#BD93F9",
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
-      "id": "5f758265-9c4c-5aa5-bd5f-547553cd993d",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/SEADEX.png",
-      "isEnabled": true,
-      "name": "SEADEX Release",
-      "pattern": "(?i)(?:\\bseadex\\b|ᴀʟᴛ\\s+ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ\\s+ʀᴇʟᴇᴀsᴇ|alt\\s+release|best\\s+release)",
-      "tagColor": "#BD93F9",
-      "tagStyle": "filled",
-      "textColor": "#0E0E0E",
-      "type": "filter"
-    },
-    {
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
-      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
-      "imageURL": "https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/regex%20tags/IMAXv2.PNG?raw=true",
-      "isEnabled": true,
-      "name": "IMAX",
-      "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
-      "tagColor": "#BD93F9",
-      "tagStyle": "filled",
-      "textColor": "#0E0E0E",
-      "type": "filter",
-      "borderColor": "#BD93F9"
     }
   ],
   "groups": [
