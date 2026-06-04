@@ -1,58 +1,6 @@
 {
   "filters": [
     {
-      "borderColor": "#FF007F",
-      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "id": "c0ad5e2e-ed9d-5abd-a13a-64cce37547a2",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/remux%20unranked.png",
-      "isEnabled": true,
-      "name": "REMUX",
-      "pattern": "(?i)\\bremux|bdremux\\b",
-      "tagColor": "#FF007F",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#9437FF",
-      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "id": "acf8f544-3810-5b00-ac72-4835d3438e1a",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/bluray%20unranked.png",
-      "isEnabled": true,
-      "name": "BLU-RAY",
-      "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
-      "tagColor": "#9437FF",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#0073FF",
-      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "id": "4c04b5c6-2077-5c46-b7cd-6709391fcd37",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/web%20unranked.png",
-      "isEnabled": true,
-      "name": "WEB",
-      "pattern": "(?i)\\b(?:web[-_. ]?dl|web|webdl|webrip|web-rip)\\b",
-      "tagColor": "#0073FF",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#BD93F9",
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
-      "id": "5f758265-9c4c-5aa5-bd5f-547553cd993d",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/SEADEX.png",
-      "isEnabled": true,
-      "name": "SEADEX Release",
-      "pattern": "(?i)(?:\\bseadex\\b|ᴀʟᴛ\\s+ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ\\s+ʀᴇʟᴇᴀsᴇ|alt\\s+release|best\\s+release)",
-      "tagColor": "#BD93F9",
-      "tagStyle": "filled",
-      "textColor": "#0E0E0E",
-      "type": "filter"
-    },
-    {
       "groupId": "550e8400-e29b-41d4-a716-446655440000",
       "id": "29075787-3ab6-539d-aee4-2245d93f115a",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/4k.png",
@@ -92,17 +40,43 @@
       "borderColor": "#268DFF"
     },
     {
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
-      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
-      "imageURL": "https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/regex%20tags/IMAXv2.PNG?raw=true",
+      "borderColor": "#FF007F",
+      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "id": "c0ad5e2e-ed9d-5abd-a13a-64cce37547a2",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/remux%20unranked.png",
       "isEnabled": true,
-      "name": "IMAX",
-      "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
-      "tagColor": "#BD93F9",
+      "name": "REMUX",
+      "pattern": "(?i)\\bremux|bdremux\\b",
+      "tagColor": "#FF007F",
       "tagStyle": "filled",
-      "textColor": "#0E0E0E",
-      "type": "filter",
-      "borderColor": "#BD93F9"
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#9437FF",
+      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "id": "acf8f544-3810-5b00-ac72-4835d3438e1a",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/bluray%20unranked.png",
+      "isEnabled": true,
+      "name": "BLU-RAY",
+      "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
+      "tagColor": "#9437FF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#0073FF",
+      "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "id": "4c04b5c6-2077-5c46-b7cd-6709391fcd37",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/new%20tiers/web%20unranked.png",
+      "isEnabled": true,
+      "name": "WEB",
+      "pattern": "(?i)\\b(?:web[-_. ]?dl|web|webdl|webrip|web-rip)\\b",
+      "tagColor": "#0073FF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
     },
     {
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
@@ -337,20 +311,46 @@
       "textColor": "#0E0E0E",
       "type": "filter",
       "borderColor": "#FFFFFF"
+    },
+    {
+      "borderColor": "#BD93F9",
+      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "id": "5f758265-9c4c-5aa5-bd5f-547553cd993d",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/SEADEX.png",
+      "isEnabled": true,
+      "name": "SEADEX Release",
+      "pattern": "(?i)(?:\\bseadex\\b|ᴀʟᴛ\\s+ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ\\s+ʀᴇʟᴇᴀsᴇ|alt\\s+release|best\\s+release)",
+      "tagColor": "#BD93F9",
+      "tagStyle": "filled",
+      "textColor": "#0E0E0E",
+      "type": "filter"
+    },
+    {
+      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
+      "imageURL": "https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/regex%20tags/IMAXv2.PNG?raw=true",
+      "isEnabled": true,
+      "name": "IMAX",
+      "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
+      "tagColor": "#BD93F9",
+      "tagStyle": "filled",
+      "textColor": "#0E0E0E",
+      "type": "filter",
+      "borderColor": "#BD93F9"
     }
   ],
   "groups": [
-    {
-      "color": "#9437FF",
-      "id": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "isExpanded": true,
-      "name": "Media Source"
-    },
     {
       "color": "#268DFF",
       "id": "550e8400-e29b-41d4-a716-446655440000",
       "isExpanded": true,
       "name": "Resolution"
+    },
+    {
+      "color": "#9437FF",
+      "id": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "isExpanded": true,
+      "name": "Media Source"
     },
     {
       "color": "#FF007F",
