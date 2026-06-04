@@ -60,7 +60,7 @@
       "isEnabled": true,
       "name": "BLU-RAY",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
-      "tagColor": "#7dd3c2",
+      "tagColor": "#268dff",
       "tagStyle": "filled",
       "textColor": "#0E0E0E",
       "type": "filter"
