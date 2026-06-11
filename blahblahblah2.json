@@ -101,7 +101,7 @@
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/white%20regex%20tags/white_bluray%20unranked.png",
       "isEnabled": true,
       "name": "BLU-RAY Unranked",
-      "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip))(?!.*remux)",
+      "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|brrip|\\bbd\\b))(?!.*remux)",
       "tagColor": "#22000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
