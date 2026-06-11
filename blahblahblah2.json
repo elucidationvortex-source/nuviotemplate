@@ -386,7 +386,7 @@
       "imageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/main/images/multibadge.png",
       "isEnabled": true,
       "name": "MULTI-AUDIO",
-      "pattern": "(?i)\\b(?:multi[-_. ]?audio|dual[-_. ]?audio|dubbed|dub)\\b",
+      "pattern": "(?i)\\b(?:multi[-_. ]?audio|dual[-_. ]?audio|multi|dual|dub(?:bed)?)\\b",
       "tagColor": "#22000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
