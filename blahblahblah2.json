@@ -379,19 +379,6 @@
       "textColor": "#FFFFFF",
       "type": "filter",
       "borderColor": "#2c8dff"
-    },
-    {
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
-      "id": "5b2a1c9d-8f7e-4e6d-9c3b-2a1f8e9d0c4b",
-      "imageURL": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/main/images/multibadge.png",
-      "isEnabled": true,
-      "name": "MULTI-AUDIO",
-      "pattern": "(?i)\\b(?:multi[-_. ]?audio|dual[-_. ]?audio|multi|dual|dub(?:bed)?)\\b",
-      "tagColor": "#22000000",
-      "tagStyle": "bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter",
-      "borderColor": "#C792EA"
     }
   ]
 }
